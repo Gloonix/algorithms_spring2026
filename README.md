@@ -3,6 +3,7 @@
 Лекция 1
 ---------
 Запись: https://vk.com/video19138189_456239279
+
 Слайды: https://drive.google.com/file/d/1FI-AlehdcEP9uhTe7iAEX10DQ6XRdhyW/view
 
 Семинар 1
