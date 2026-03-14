@@ -21,3 +21,9 @@
 - Картинка в) получилась из б) после извлечения одного элемента из головы очереди.
 
 ![Зацикленный буфер](https://user-images.githubusercontent.com/1894130/194703133-14d6ab57-de4f-4cba-b15d-0bdfe4145b10.png)
+
+Лекция 2
+---------
+Запись: https://vk.com/video19138189_456239281
+
+Слайды: https://drive.google.com/file/d/13oPC8gz4w0aRwiKJpQTrNiT_cMiDepbN/view
