@@ -50,6 +50,12 @@
 
 Реализация сортировки подсчетом.
 
+Лекция 3
+---------
+Запись (Дмитрия Корепанова): https://vk.com/video19138189_456239284
+
+Слайды: https://drive.google.com/file/d/1yvQZGlbsPJF5maiG49jFiw7b_EZ3p3ZA/view?usp=sharing
+
 Семинар 4
 ---------
 Запись: https://vk.com/video19138189_456239298
