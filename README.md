@@ -58,7 +58,7 @@
 
 Семинар 4
 ---------
-Запись: https://vk.com/video19138189_456239299
+Запись: https://vk.com/video19138189_456239298
 
 **lab4_hashtable.cpp**
 
@@ -72,7 +72,7 @@
 
 Семинар 5
 ---------
-Запись: https://vk.com/video19138189_456239286
+Запись: https://vk.com/video19138189_456239299
 
 **lab5_avltree.cpp**
 
